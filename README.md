@@ -1,4 +1,5 @@
-# Python library for Assem's Arabic Stemmer
+# arabicstemmer_pythonlibrary
+Python library for Assem's Arabic Stemmer
 
 ## Install
 
@@ -19,3 +20,4 @@
 
 ## License 
 BSD 
+
