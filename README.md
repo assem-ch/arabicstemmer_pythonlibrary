@@ -1,4 +1,4 @@
-# arabicstemmer_pythonlibrary
+# Arabic stemmer python library
 Python library for Assem's Arabic Stemmer
 
 ## Install
